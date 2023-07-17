@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.74.30180.0%0D%0A%0D%0A00:00:00.032%20--%3E%2000:00:05.312%0D%0AIt%20is%20the%20capacity%20to%20avoid%20extreme%20emotions%20in%20order%20to%20have%20better%20interpersonal%20relationships.%0D%0A%0D%0A"}')
